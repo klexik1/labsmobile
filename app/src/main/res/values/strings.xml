@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">labsmobile</string>
+    <string name="hint_size">Размер списка</string>
+    <string name="button_run">Посчитать</string>
 </resources>
