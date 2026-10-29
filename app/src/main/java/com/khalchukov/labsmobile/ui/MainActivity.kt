@@ -6,7 +6,7 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.khalchukov.labsmobile.R
-import com.khalchukov.labsmobile.logic.ListHelper
+import com.khalchukov.labsmobile.logic.processInput
 
 class MainActivity : AppCompatActivity() {
 
